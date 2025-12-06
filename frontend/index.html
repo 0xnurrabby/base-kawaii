@@ -5,27 +5,25 @@
     <title>Base Kawaii</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <!-- Farcaster / Base Mini App embed meta -->
-    <!-- JSON ta stringified form e thakte hobe, spec e ja ase  -->
     <meta
       name="fc:miniapp"
       content='{
         "version": "1",
-        "imageUrl": "https://your-domain.com/base-kawaii/embed.png",
+        "imageUrl": "https://base-kawaii.vercel.app/embed.png",
         "button": {
           "title": "Open Base Kawaii",
           "action": {
-            "type": "launch_frame",
+            "type": "launch_miniapp",
             "name": "Base Kawaii",
-            "url": "https://your-domain.com/base-kawaii",
-            "splashImageUrl": "https://your-domain.com/base-kawaii/splash.png",
+            "url": "https://base-kawaii.vercel.app",
+            "splashImageUrl": "https://base-kawaii.vercel.app/splash.png",
             "splashBackgroundColor": "#fef3f7"
           }
         }
       }'
     />
   </head>
-  <body class="bg-cream-50">
+  <body>
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
   </body>

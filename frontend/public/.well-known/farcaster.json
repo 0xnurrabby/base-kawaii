@@ -5,31 +5,31 @@
     "signature": ""
   },
   "baseBuilder": {
-    "ownerAddress": "0xYourBaseWalletAddressHere"
+    "ownerAddress": "0xe8Bda2Ed9d2FC622D900C8a76dc455A3e79B041f"
   },
   "miniapp": {
     "version": "1",
     "name": "Base Kawaii",
-    "homeUrl": "https://your-domain.com/base-kawaii",
-    "iconUrl": "https://your-domain.com/base-kawaii/icon.png",
-    "splashImageUrl": "https://your-domain.com/base-kawaii/splash.png",
+    "homeUrl": "https://base-kawaii.vercel.app",
+    "iconUrl": "https://base-kawaii.vercel.app/icon.png",
+    "splashImageUrl": "https://base-kawaii.vercel.app/splash.png",
     "splashBackgroundColor": "#fef3f7",
 
     "subtitle": "Kawaii wallet feelings on Base",
-    "description": "Base Kawaii turns any Base wallet into a cute pastel persona with habits, moods, and stories.",
+    "description": "Base Kawaii turns a wallet into a cute pastel persona.",
 
     "primaryCategory": "social",
-    "tags": ["wallet", "analytics", "kawaii"],
+    "tags": ["kawaii", "wallet", "base"],
 
     "screenshotUrls": [
-      "https://your-domain.com/base-kawaii/screenshot-1.png"
+      "https://base-kawaii.vercel.app/screenshot-1.png"
     ],
-    "heroImageUrl": "https://your-domain.com/base-kawaii/hero.png",
-    "tagline": "Pastel feelings for your Base wallet",
+    "heroImageUrl": "https://base-kawaii.vercel.app/hero.png",
+    "tagline": "Pastel feelings for your Base wallet.",
 
     "ogTitle": "Base Kawaii",
-    "ogDescription": "Turn your Base wallet into a kawaii story: moods, habits, friendships, and more.",
-    "ogImageUrl": "https://your-domain.com/base-kawaii/og.png",
+    "ogDescription": "A cute pastel personality for your Base wallet.",
+    "ogImageUrl": "https://base-kawaii.vercel.app/og.png",
 
     "noindex": true
   }
