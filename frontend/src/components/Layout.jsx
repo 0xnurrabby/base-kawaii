@@ -18,7 +18,7 @@ const Layout = ({ children }) => {
         </header>
         {children}
         <footer className="mt-10 text-center text-xs text-slate-500 opacity-70">
-          Crafted with pastel vibes on Base💙 
+          Crafted with pastel vibes on Base💙 By nurrabby.base.eth
         </footer>
       </div>
     </div>
