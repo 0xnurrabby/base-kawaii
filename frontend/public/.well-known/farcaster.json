@@ -1,12 +1,4 @@
 {
-  "accountAssociation": {
-    "header": "",
-    "payload": "",
-    "signature": ""
-  },
-  "baseBuilder": {
-    "ownerAddress": "0xe8Bda2Ed9d2FC622D900C8a76dc455A3e79B041f"
-  },
   "miniapp": {
     "version": "1",
     "name": "Base Kawaii",
@@ -18,19 +10,21 @@
     "subtitle": "Kawaii wallet feelings on Base",
     "description": "Base Kawaii turns a wallet into a cute pastel persona.",
 
-    "primaryCategory": "social",
-    "tags": ["kawaii", "wallet", "base"],
-
     "screenshotUrls": [
       "https://base-kawaii.vercel.app/screenshot-1.png"
     ],
+    "primaryCategory": "social",
+    "tags": ["kawaii", "wallet", "base"],
+
     "heroImageUrl": "https://base-kawaii.vercel.app/hero.png",
     "tagline": "Pastel feelings for your Base wallet.",
-
     "ogTitle": "Base Kawaii",
     "ogDescription": "A cute pastel personality for your Base wallet.",
     "ogImageUrl": "https://base-kawaii.vercel.app/og.png",
 
     "noindex": true
+  },
+  "baseBuilder": {
+    "ownerAddress": "0x8e8bda2fe9d2fC622D900c8a76dc455A3e798041f"
   }
 }
