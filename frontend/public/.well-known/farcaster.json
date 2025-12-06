@@ -1,4 +1,9 @@
 {
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
   "miniapp": {
     "version": "1",
     "name": "Base Kawaii",
@@ -25,6 +30,6 @@
     "noindex": true
   },
   "baseBuilder": {
-    "ownerAddress": "0x8e8bda2fe9d2fC622D900c8a76dc455A3e798041f"
+    "ownerAddress": "0xe8Bda2Ed9d2FC622D900C8a76dc455A3e79B041f"
   }
 }
