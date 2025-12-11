@@ -26,7 +26,7 @@
     "ogTitle": "Base Kawaii",
     "ogDescription": "A cute pastel personality for your Base wallet.",
     "ogImageUrl": "https://base-kawaii.vercel.app/og.png",
-    "noindex": true
+    "noindex": true,
     "webhookUrl": "https://base-kawaii.vercel.app/api/webhook"
   },
   "baseBuilder": {
